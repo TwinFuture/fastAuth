@@ -1,6 +1,6 @@
 # Fast Auth
 # A simple yet fast Token Authorization / Authentication method. No need for bulky modules
-This module is lightwight and simply gets straight to the point of creating and authorizing tokens with expiry built in.
+This module is lightwight and simply gets straight to the point of creating and authorizing tokens with expiry built in..
 
 ## Main functions & Features
 
