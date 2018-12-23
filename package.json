@@ -1,0 +1,30 @@
+{
+    "name": "fastauth",
+    "version": "1.0.4",
+    "description": "A simple yet fast token authorization / authentication method. No need for bulky modules.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TwinFuture/fastauth.git"
+    },
+    "keywords": [
+      "Token",
+      "authentification",
+      "authorization",
+      "fast",
+      "simple",
+      "easy",
+      "bearer",
+      "jwt",
+      "middleware"
+    ],
+    "author": "Alec Johnson | TwinFuture",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/TwinFuture/fastauth/issues"
+    },
+    "homepage": "https://github.com/TwinFuture/fastauth#readme"
+  }
